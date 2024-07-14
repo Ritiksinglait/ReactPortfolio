@@ -10,7 +10,7 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Ritik Singla </span>
             from <span className="purple"> Delhi, India.</span>
-            <br />I am a Engineering student, pursuing Btech from MAIT, Delhi
+            <br />I am a Data Engineer professional at Biz2credit
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
